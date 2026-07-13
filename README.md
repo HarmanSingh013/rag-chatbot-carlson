@@ -1,3 +1,7 @@
+## Code & files
+To run the code, upload the data files from a folder named "data" in the Colab environment and set up the necessary key. 📌[Colab](https://colab.research.google.com/drive/1_TYG8saveyjD1yY4RKJRxZfFySosIW6Q)
+
+
 ## RAG Chatbot for Carlson School of Management
 
 Traditional generative AI systems are prone to hallucinations and cannot access information beyond their training cutoff. This project builds a Retrieval-Augmented Generation (RAG) chatbot for the Carlson School of Management's website, grounding the language model's responses in verified, retrieved content rather than relying solely on parametric memory.
@@ -60,4 +64,3 @@ The comparison below illustrates RAG's advantages over standard generative AI:
 | Update Frequency     | Requires retraining for updates    | Retrieves latest indexed information         |
 | Cost Efficiency      | High retraining costs              | Eliminates need for expensive retraining     |
 
-Code and data files: https://colab.research.google.com/drive/1_TYG8saveyjD1yY4RKJRxZfFySosIW6Q
