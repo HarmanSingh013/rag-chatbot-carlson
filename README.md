@@ -1,6 +1,9 @@
 ## Code & files
 To run the code, upload the data files from a folder named "data" in the Colab environment and set up the necessary key. 📌[Colab](https://colab.research.google.com/drive/1_TYG8saveyjD1yY4RKJRxZfFySosIW6Q)
 
+# About
+![RAG Flyer Page 1](./RAG%20Flyer_page-1.jpg)
+![RAG Flyer Page 2](./RAG%20Flyer_page-2.jpg)
 
 ## RAG Chatbot for Carlson School of Management
 
@@ -63,9 +66,4 @@ The comparison below illustrates RAG's advantages over standard generative AI:
 | Accuracy             | Prone to hallucinations            | Grounded and factually accurate              |
 | Update Frequency     | Requires retraining for updates    | Retrieves latest indexed information         |
 | Cost Efficiency      | High retraining costs              | Eliminates need for expensive retraining     |
-
-## Flyer
-
-![RAG Flyer Page 1](./RAG%20Flyer_page-1.jpg)
-![RAG Flyer Page 2](./RAG%20Flyer_page-2.jpg)
 
