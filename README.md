@@ -64,3 +64,5 @@ The comparison below illustrates RAG's advantages over standard generative AI:
 | Update Frequency     | Requires retraining for updates    | Retrieves latest indexed information         |
 | Cost Efficiency      | High retraining costs              | Eliminates need for expensive retraining     |
 
+
+
